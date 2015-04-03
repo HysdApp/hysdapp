@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.0.65.176:1501/HyXJServer/soft/V1.1inspection.ipa</string>
+					<string>http://106.120.82.175:1501/HyXJServer/soft/V1.1inspection.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://10.0.65.176:1501/HyXJServer/icon/logo360.png</string>
+					<string>http://106.120.82.175:1501/HyXJServer/icon/logo360.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://10.0.65.176:1501/HyXJServer/icon/logo120.png</string>
+					<string>http://106.120.82.175:1501/HyXJServer/icon/logo120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
