@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://106.120.82.175:1501/HyXJServer/icon/logo360.png</string>
+					<string>http://106.120.82.175:1501/HyXJServer/icon/icon180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://106.120.82.175:1501/HyXJServer/icon/logo120.png</string>
+					<string>http://106.120.82.175:1501/HyXJServer/icon/icon120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
